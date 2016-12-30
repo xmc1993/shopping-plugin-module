@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE configuration PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
+                "http://mybatis.org/dtd/mybatis-3-config.dtd">
+<configuration>
+<!-- 设置全名称类的别名 -->
+<typeAliases>
+    <typeAlias alias="Clock" type="com.nju.entity.Clock"/>
+</typeAliases>
+
+<mappers>
+</mappers>
+
+</configuration>

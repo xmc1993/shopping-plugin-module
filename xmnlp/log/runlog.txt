@@ -1,0 +1,60 @@
+2016-12-28 17:02:33,028 [INFO ] org.xm.ansj.dictionary.UserDefineDictionary {UserDefineDictionary.java:173} - Init user library ok!
+2016-12-28 17:02:33,198 [INFO ] org.xm.ansj.dictionary.UserDefineDictionary {UserDefineDictionary.java:108} - init ambiguity dictionary ok.
+2016-12-28 17:02:33,202 [INFO ] org.xm.ansj.dictionary.UserDefineDictionary {UserDefineDictionary.java:126} - init synonyms in line:
+2016-12-28 17:02:33,202 [INFO ] org.xm.ansj.dictionary.UserDefineDictionary {UserDefineDictionary.java:126} - init synonyms in line:
+2016-12-28 17:02:33,202 [INFO ] org.xm.ansj.dictionary.UserDefineDictionary {UserDefineDictionary.java:136} - init synonyms dict ok.
+2016-12-28 17:02:34,683 [INFO ] org.xm.ansj.dictionary.DatDictionary {DatDictionary.java:50} - init core dic ok,use time :984
+2016-12-28 17:02:35,629 [INFO ] org.xm.ansj.dictionary.NgramDictionary {NgramDictionary.java:17} - init ngram ok,use time:808
+2016-12-28 17:03:44,805 [INFO ] org.xm.ansj.dictionary.UserDefineDictionary {UserDefineDictionary.java:173} - Init user library ok!
+2016-12-28 17:03:44,888 [INFO ] org.xm.ansj.dictionary.UserDefineDictionary {UserDefineDictionary.java:108} - init ambiguity dictionary ok.
+2016-12-28 17:03:44,903 [INFO ] org.xm.ansj.dictionary.UserDefineDictionary {UserDefineDictionary.java:126} - init synonyms in line:
+2016-12-28 17:03:44,904 [INFO ] org.xm.ansj.dictionary.UserDefineDictionary {UserDefineDictionary.java:126} - init synonyms in line:
+2016-12-28 17:03:44,904 [INFO ] org.xm.ansj.dictionary.UserDefineDictionary {UserDefineDictionary.java:136} - init synonyms dict ok.
+2016-12-28 17:03:45,990 [INFO ] org.xm.ansj.dictionary.DatDictionary {DatDictionary.java:50} - init core dic ok,use time :924
+2016-12-28 17:03:46,699 [INFO ] org.xm.ansj.dictionary.NgramDictionary {NgramDictionary.java:17} - init ngram ok,use time:630
+2016-12-30 11:11:07,654 [INFO ] org.xm.ansj.dictionary.UserDefineDictionary {UserDefineDictionary.java:173} - Init user library ok!
+2016-12-30 11:11:07,722 [INFO ] org.xm.ansj.dictionary.UserDefineDictionary {UserDefineDictionary.java:108} - init ambiguity dictionary ok.
+2016-12-30 11:11:07,756 [INFO ] org.xm.ansj.dictionary.UserDefineDictionary {UserDefineDictionary.java:126} - init synonyms in line:
+2016-12-30 11:11:07,757 [INFO ] org.xm.ansj.dictionary.UserDefineDictionary {UserDefineDictionary.java:126} - init synonyms in line:
+2016-12-30 11:11:07,757 [INFO ] org.xm.ansj.dictionary.UserDefineDictionary {UserDefineDictionary.java:136} - init synonyms dict ok.
+2016-12-30 11:11:08,420 [INFO ] org.xm.ansj.dictionary.DatDictionary {DatDictionary.java:50} - init core dic ok,use time :463
+2016-12-30 11:11:09,125 [INFO ] org.xm.ansj.dictionary.NgramDictionary {NgramDictionary.java:17} - init ngram ok,use time:621
+2016-12-30 11:11:37,687 [INFO ] org.xm.ansj.dictionary.UserDefineDictionary {UserDefineDictionary.java:173} - Init user library ok!
+2016-12-30 11:11:37,712 [INFO ] org.xm.ansj.dictionary.UserDefineDictionary {UserDefineDictionary.java:108} - init ambiguity dictionary ok.
+2016-12-30 11:11:37,714 [INFO ] org.xm.ansj.dictionary.UserDefineDictionary {UserDefineDictionary.java:126} - init synonyms in line:
+2016-12-30 11:11:37,715 [INFO ] org.xm.ansj.dictionary.UserDefineDictionary {UserDefineDictionary.java:126} - init synonyms in line:
+2016-12-30 11:11:37,716 [INFO ] org.xm.ansj.dictionary.UserDefineDictionary {UserDefineDictionary.java:136} - init synonyms dict ok.
+2016-12-30 11:11:38,381 [INFO ] org.xm.ansj.dictionary.DatDictionary {DatDictionary.java:50} - init core dic ok,use time :569
+2016-12-30 11:11:39,200 [INFO ] org.xm.ansj.dictionary.NgramDictionary {NgramDictionary.java:17} - init ngram ok,use time:706
+2016-12-30 11:12:06,384 [INFO ] org.xm.ansj.dictionary.UserDefineDictionary {UserDefineDictionary.java:173} - Init user library ok!
+2016-12-30 11:12:06,423 [INFO ] org.xm.ansj.dictionary.UserDefineDictionary {UserDefineDictionary.java:108} - init ambiguity dictionary ok.
+2016-12-30 11:12:06,433 [INFO ] org.xm.ansj.dictionary.UserDefineDictionary {UserDefineDictionary.java:126} - init synonyms in line:
+2016-12-30 11:12:06,433 [INFO ] org.xm.ansj.dictionary.UserDefineDictionary {UserDefineDictionary.java:126} - init synonyms in line:
+2016-12-30 11:12:06,434 [INFO ] org.xm.ansj.dictionary.UserDefineDictionary {UserDefineDictionary.java:136} - init synonyms dict ok.
+2016-12-30 11:12:07,228 [INFO ] org.xm.ansj.dictionary.DatDictionary {DatDictionary.java:50} - init core dic ok,use time :627
+2016-12-30 11:12:07,866 [INFO ] org.xm.ansj.dictionary.NgramDictionary {NgramDictionary.java:17} - init ngram ok,use time:562
+2016-12-30 11:12:19,055 [INFO ] org.xm.ansj.dictionary.UserDefineDictionary {UserDefineDictionary.java:173} - Init user library ok!
+2016-12-30 11:12:19,090 [INFO ] org.xm.ansj.dictionary.UserDefineDictionary {UserDefineDictionary.java:108} - init ambiguity dictionary ok.
+2016-12-30 11:12:19,104 [INFO ] org.xm.ansj.dictionary.UserDefineDictionary {UserDefineDictionary.java:126} - init synonyms in line:
+2016-12-30 11:12:19,105 [INFO ] org.xm.ansj.dictionary.UserDefineDictionary {UserDefineDictionary.java:126} - init synonyms in line:
+2016-12-30 11:12:19,105 [INFO ] org.xm.ansj.dictionary.UserDefineDictionary {UserDefineDictionary.java:136} - init synonyms dict ok.
+2016-12-30 11:12:19,829 [INFO ] org.xm.ansj.dictionary.DatDictionary {DatDictionary.java:50} - init core dic ok,use time :583
+2016-12-30 11:12:20,586 [INFO ] org.xm.ansj.dictionary.NgramDictionary {NgramDictionary.java:17} - init ngram ok,use time:715
+2016-12-30 11:12:37,634 [INFO ] org.xm.ansj.dictionary.UserDefineDictionary {UserDefineDictionary.java:173} - Init user library ok!
+2016-12-30 11:12:37,639 [INFO ] org.xm.ansj.dictionary.UserDefineDictionary {UserDefineDictionary.java:108} - init ambiguity dictionary ok.
+2016-12-30 11:12:37,640 [INFO ] org.xm.ansj.dictionary.UserDefineDictionary {UserDefineDictionary.java:126} - init synonyms in line:
+2016-12-30 11:12:37,640 [INFO ] org.xm.ansj.dictionary.UserDefineDictionary {UserDefineDictionary.java:126} - init synonyms in line:
+2016-12-30 11:12:37,641 [INFO ] org.xm.ansj.dictionary.UserDefineDictionary {UserDefineDictionary.java:136} - init synonyms dict ok.
+2016-12-30 11:12:38,052 [INFO ] org.xm.ansj.dictionary.DatDictionary {DatDictionary.java:50} - init core dic ok,use time :384
+2016-12-30 11:12:38,650 [INFO ] org.xm.ansj.dictionary.NgramDictionary {NgramDictionary.java:17} - init ngram ok,use time:547
+2016-12-30 11:12:38,702 [INFO ] org.xm.ansj.demo.DemoNature {DemoNature.java:29} - logback info 成功了
+2016-12-30 11:12:38,702 [ERROR] org.xm.ansj.demo.DemoNature {DemoNature.java:30} - logback error 成功了
+2016-12-30 11:13:08,779 [INFO ] org.xm.ansj.dictionary.UserDefineDictionary {UserDefineDictionary.java:173} - Init user library ok!
+2016-12-30 11:13:08,858 [INFO ] org.xm.ansj.dictionary.UserDefineDictionary {UserDefineDictionary.java:108} - init ambiguity dictionary ok.
+2016-12-30 11:13:08,911 [INFO ] org.xm.ansj.dictionary.UserDefineDictionary {UserDefineDictionary.java:126} - init synonyms in line:
+2016-12-30 11:13:08,912 [INFO ] org.xm.ansj.dictionary.UserDefineDictionary {UserDefineDictionary.java:126} - init synonyms in line:
+2016-12-30 11:13:08,912 [INFO ] org.xm.ansj.dictionary.UserDefineDictionary {UserDefineDictionary.java:136} - init synonyms dict ok.
+2016-12-30 11:13:09,860 [INFO ] org.xm.ansj.dictionary.DatDictionary {DatDictionary.java:50} - init core dic ok,use time :759
+2016-12-30 11:13:10,603 [INFO ] org.xm.ansj.dictionary.NgramDictionary {NgramDictionary.java:17} - init ngram ok,use time:643
+2016-12-30 11:13:10,732 [INFO ] org.xm.ansj.demo.DemoNature {DemoNature.java:29} - logback info 成功了
+2016-12-30 11:13:10,732 [ERROR] org.xm.ansj.demo.DemoNature {DemoNature.java:30} - logback error 成功了
