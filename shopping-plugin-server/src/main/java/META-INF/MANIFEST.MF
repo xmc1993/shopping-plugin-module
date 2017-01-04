@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+X-Compile-Source-JDK: 1.7
+X-Compile-Target-JDK: 1.7
+
